@@ -1,4 +1,4 @@
-import { ContentModule } from './../content/content.module';
+import { ContentModule } from '@content/content.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
